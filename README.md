@@ -47,7 +47,7 @@ cd eat-and-split
 
 ## Contributing
 
-Contributions to this project are welcome. If you encounter any issues or have ideas for improvement, please submit an issue or pull request to the GitHub repository at [https://github.com/your-username/eat-and-split](https://github.com/your-username/eat-and-split).
+Contributions to this project are welcome. If you encounter any issues or have ideas for improvement, please submit an issue or pull request to the GitHub repository at [https://github.com/brainy-bug/eat-n-split](https://github.com/brainy-bug/eat-n-split).
 
 When contributing to this project, please follow the existing code style and conventions. Be sure to test your changes thoroughly and provide relevant documentation updates.
 
